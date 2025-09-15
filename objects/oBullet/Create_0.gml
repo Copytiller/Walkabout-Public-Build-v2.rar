@@ -1,0 +1,2 @@
+
+fireDirection=0;

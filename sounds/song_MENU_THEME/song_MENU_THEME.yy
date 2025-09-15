@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"song_MENU_THEME",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":128.0,
+  "name":"song_MENU_THEME",
+  "parent":{
+    "name":"Songs",
+    "path":"folders/Songs.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"song_MENU_THEME.wav",
+  "type":0,
+  "volume":1.0,
+}

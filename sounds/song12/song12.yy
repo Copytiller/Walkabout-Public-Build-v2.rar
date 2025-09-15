@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"song12",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":59.07694,
+  "name":"song12",
+  "parent":{
+    "name":"Songs",
+    "path":"folders/Songs.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"song12.ogg",
+  "type":0,
+  "volume":1.0,
+}
